@@ -18,6 +18,8 @@
 
 * 新增LivePhoto编辑功能。
 
+![livePhoto编辑](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/livephoto%E7%BC%96%E8%BE%91.png?raw=true)
+
 * 增加了人脸识别的功能，可根据面孔将照片进行分类(同一个人的照片或者照片中有这个人的话那就是一类)。不过目前的iOS10测试版发现在一次性导入大量图片的时候他需要进行任务查找分类，这个过程还是比较漫长的。不过准确率还是不错的，如果系统有某些照片没有识别出来的话，还支持用户向某个分类中添加人物照片。
 
 ![人物](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E4%BA%BA%E7%89%A9cell.png?raw=true)
