@@ -17,6 +17,7 @@
 
 ![人物](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E4%BA%BA%E7%89%A9cell.png?raw=true)
 ![人物](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E6%AD%A3%E5%9C%A8%E6%9F%A5%E6%89%BE%E4%BA%BA%E7%89%A9.png?raw=true)
+![人物](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E4%BA%BA%E7%89%A9.png?raw=true)
 
 * iOS10相册还具有标记功能，针对iPad、iPhone有不同的操作方式，用户可放大图片，并在图片上进行涂鸦或添加文字内容。
 
