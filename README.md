@@ -2,7 +2,7 @@
 * 整体UI变化
 
 
-![相册](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/98D6A333-2EB2-4B75-93A6-05EE98E0F775.png?raw=true)
+![相册](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E6%95%B4%E4%BD%93UI%E5%9B%BE.PNG?raw=true)
 
 * 新加入回忆功能，该功能是将你之前一段时间所创建的照片自动放到回忆中，当然你也可以自己手动将照片放入回忆中。点击后用户可以在地图中看到你照片的生成地点，同时系统会根据你的头像与相关的地点联系在一起，在视频方面，新的照片系统也可以将你的情绪与音乐放在一起，让你更方便回忆，简单来说，就是更利于用户记忆，另外也让用户更有参与感。
 
@@ -15,8 +15,8 @@
 
 * 增加了人脸识别的功能，可根据面孔将照片进行分类(同一个人的照片或者照片中有这个人的话那就是一类)。不过目前的iOS10测试版发现在一次性导入大量图片的时候他需要进行任务查找分类，这个过程还是比较漫长的。不过准确率还是不错的，如果系统有某些照片没有识别出来的话，还支持用户向某个分类中添加人物照片。
 
-![人物](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/FDC282B0-D251-4EF7-A91E-3A798E1BF742.png?raw=true)
-![人物](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/8CD2B777-95F2-466C-A8DB-815B3070C8C0.png?raw=true)
+![人物](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E4%BA%BA%E7%89%A9cell.png?raw=true)
+![人物](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E6%AD%A3%E5%9C%A8%E6%9F%A5%E6%89%BE%E4%BA%BA%E7%89%A9.png?raw=true)
 
 * iOS10相册还具有标记功能，针对iPad、iPhone有不同的操作方式，用户可放大图片，并在图片上进行涂鸦或添加文字内容。
 
