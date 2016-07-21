@@ -9,6 +9,11 @@
 ![回忆相册](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/1F659074-5965-4BB4-BBB0-BC3F71ADC2A5.png?raw=true)
 ![回忆相册](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/5099A0D5-C491-43C3-BBE5-8DBD9D6AA973.png?raw=true)
 
+在地图中看到的相片生成的地点
+
+![位置分类](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E5%9C%B0%E7%90%86%E4%BD%8D%E7%BD%AE%E5%88%86%E7%B1%BB.png?raw=true)
+![位置分类](https://github.com/zhangninghao/iOS10Albums/blob/master/Resource/%E5%9C%B0%E5%9B%BE%E6%A8%A1%E5%BC%8F.png?raw=true)
+
 
 
 * 新增LivePhoto编辑功能。
